@@ -31,7 +31,6 @@ if ('loading' in HTMLImageElement.prototype) {
 const escKeyPressHandler = event => {
   if (event.code === 'Escape') 
     currentGallaryItemInstance.close();
-  
 };
 
 const gallaryClickHandler = event => {
