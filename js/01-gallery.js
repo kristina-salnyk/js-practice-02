@@ -2,7 +2,7 @@ import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
 const gallaryRef = document.querySelector('div.gallery');
-let currentGallaryItemInstance = null;
+let currentGallaryItemInstance;
 
 gallaryRef.innerHTML = galleryItems
   .map(
