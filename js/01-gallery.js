@@ -24,7 +24,6 @@ if ('loading' in HTMLImageElement.prototype) {
     'sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==';
   lazyLoadingScript.crossOrigin = 'anonymous';
   lazyLoadingScript.referrerPolicy = 'no-referrer';
-  lazyLoadingScript.defer;
 
   document.body.appendChild(lazyLoadingScript);
 }
