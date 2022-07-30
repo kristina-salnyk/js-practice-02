@@ -29,10 +29,9 @@ if ('loading' in HTMLImageElement.prototype) {
 }
 
 const escKeyPressHandler = event => {
-  if (event.code === 'Escape') {
+  if (event.code === 'Escape') 
     currentGallaryItemInstance.close();
-    window.removeEventListener('keydown', escKeyPressHandler);
-  }
+  
 };
 
 const gallaryClickHandler = event => {
@@ -41,11 +40,18 @@ const gallaryClickHandler = event => {
   if (event.target.nodeName !== 'IMG') return;
 
   currentGallaryItemInstance = basicLightbox.create(
-    `<img src="${event.target.dataset.source}" width="800" height="600" alt="${event.target.alt}">`
+    `<img src="${event.target.dataset.source}" width="800" height="600" alt="${event.target.alt}">`,
+    {
+      onShow: () => {
+        window.addEventListener('keydown', escKeyPressHandler);
+      },
+      onClose: () => {
+        window.removeEventListener('keydown', escKeyPressHandler);
+      },
+    }
   );
-
+  
   currentGallaryItemInstance.show();
-  window.addEventListener('keydown', escKeyPressHandler);
 };
 
 gallaryRef.addEventListener('click', gallaryClickHandler);
