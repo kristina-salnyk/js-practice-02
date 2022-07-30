@@ -46,100 +46,78 @@ export const galleryItems = [
     description: 'Lighthouse Coast Sea',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/309/510/340.jpg?hmac=ejQETAEZN571nTxpixjhqJW8WX8oRKNXtCHZT58zAws',
-    original:
-      'https://i.picsum.photos/id/309/3872/2592.jpg?hmac=mpv4pTnYv_x4vdrsXOUvytC19nhEPMgp56sK3Ize-Vo',
+    preview: 'https://picsum.photos/id/309/510/340.jpg',
+    original: 'https://picsum.photos/id/309/3872/2592.jpg',
     description: 'Green Maple Leaf in Sunlight',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/292/510/340.jpg?hmac=4q01l7B4bmJ69M9wLZr5OEBVuQvPqXImy7zJw9CvvHA',
-    original:
-      'https://i.picsum.photos/id/292/3852/2556.jpg?hmac=cPYEh0I48Xpek2DPFLxTBhlZnKVhQCJsbprR-Awl9lo',
+    preview: 'https://picsum.photos/id/292/510/340.jpg',
+    original: 'https://picsum.photos/id/292/3852/2556.jpg',
     description: 'Cooking Ingredients',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/244/510/340.jpg?hmac=BjcrVnPW-Gg-HkRje-Jygj83fSIfSUssPleVGb-r1OM',
-    original:
-      'https://i.picsum.photos/id/244/4288/2848.jpg?hmac=R6j9PBP4aBk2vcEIoOPU4R_nuknizryn2Vq8GGtWTrM',
+    preview: 'https://picsum.photos/id/244/510/340.jpg',
+    original: 'https://picsum.photos/id/244/4288/2848.jpg',
     description: 'Cormorants on the dock at Dreams Riviera Cancún Resort & Spa.',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/219/510/340.jpg?hmac=uAMykrW7Tw-IFGWqaaAIYFwRGbj4Sg48WkkkPkPrk_U',
-    original:
-      'https://i.picsum.photos/id/219/5184/3456.jpg?hmac=2LU7i3c6fykd_J0T6rZm1aBoBmK4ivkH1Oc459aRUU0',
+    preview: 'https://picsum.photos/id/219/510/340.jpg',
+    original: 'https://picsum.photos/id/219/5184/3456.jpg',
     description: 'Encounter with a leopard',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/156/510/340.jpg?hmac=pCVllrMb8TifpdL51pwkXJ2G-qzYeZFHcvIYe4F2w-E',
-    original:
-      'https://i.picsum.photos/id/156/4400/2656.jpg?hmac=jvX_JSJCHkZbsnsQ0AUke6jhIBQqe_6ZhcjMSNryZbA',
+    preview: 'https://picsum.photos/id/156/510/340.jpg',
+    original: 'https://picsum.photos/id/156/4400/2656.jpg',
     description: 'Sand Footprints',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/111/510/340.jpg?hmac=db3F3WVm2KmNJ1j5osxG35yQQJiDqTtE8rTH-4Y4wOw',
-    original:
-      'https://i.picsum.photos/id/111/4400/2656.jpg?hmac=leq8lj40D6cqFq5M_NLXkMYtV-30TtOOnzklhjPaAAQ',
+    preview: 'https://picsum.photos/id/111/510/340.jpg',
+    original: 'https://picsum.photos/id/111/4400/2656.jpg?',
     description: 'Vintage Car Street',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/1084/510/340.jpg?hmac=ICtOSfXdAUKuC4S6vlzZGUt7VAoBCKX9hQl0itFbh_w',
-    original:
-      'https://i.picsum.photos/id/1084/4579/3271.jpg?hmac=YblMazviSugJVfZsFPaFI_Vp6lBeQin62qpm8rxHruo',
+    preview: 'https://picsum.photos/id/1084/510/340.jpg',
+    original: 'https://picsum.photos/id/1084/4579/3271.jpg',
     description: 'Walrus Haulout',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/1043/510/340.jpg?hmac=V5GX0XpPRj3FASOqsxIRGjbJHc3HXhoEClxqk3l1GjI',
-    original:
-      'https://i.picsum.photos/id/1043/5184/3456.jpg?hmac=wsz2e0aFKEI0ij7mauIr2nFz2pzC8xNlgDHWHYi9qbc',
+    preview: 'https://picsum.photos/id/1043/510/340.jpg',
+    original: 'https://picsum.photos/id/1043/5184/3456.jpg',
     description: 'River Beneath Yosemite Cliffs',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/0/510/340.jpg?hmac=6Qq9LNMEMZ0VM57YB_BDv4lNgNTIvHDi94tmWfVShiY',
-    original:
-      'https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ',
+    preview: 'https://picsum.photos/id/0/510/340.jpg',
+    original: 'https://picsum.photos/id/0/5616/3744.jpg',
     description: 'Macbook Laptop on a Desk',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/281/510/340.jpg?hmac=afZrSx_c_lS21yPmHV6gmGPlQ_KPgSGkUde_Y6m1kZ4',
-    original:
-      'https://i.picsum.photos/id/281/4928/3264.jpg?hmac=0XHN8kT-vNOM5Sl2vfxmJk0uWAbHSj5EUMAO9eQ0XFM',
+    preview: 'https://picsum.photos/id/281/510/340.jpg',
+    original: 'https://picsum.photos/id/281/4928/3264.jpg',
     description: 'Skate Tricks',
   },
   {
-    preview:
-      'https://i.picsum.photos/id/289/510/340.jpg?hmac=pT3Dg_qKsdcaS1Zt39jOSeCzkmHIN2onp6rU9k2tgtw',
-    original:
-      'https://i.picsum.photos/id/289/2800/1508.jpg?hmac=RRpZ65go4XFZxPnHs8RAQG4DJ-Tf-VD61PctWFpwDRc',
+    preview: 'https://picsum.photos/id/289/510/340.jpg',
+    original: 'https://picsum.photos/id/289/2800/1508.jpg',
     description: 'Countryside Barn',
   },
   {
-    preview: 'https://i.picsum.photos/id/312/510/340.jpg?hmac=1tWRmk73yn3lNIVk6R1PwA2_SxDzAjh3WjvDw2D1Nn4',
-    original: 'https://i.picsum.photos/id/312/3888/2592.jpg?hmac=Lk5n0q19XuicLgvYPdAr5iML0VbkEADyqgJoHH_5nAs',
+    preview: 'https://picsum.photos/id/312/510/340.jpg',
+    original: 'https://picsum.photos/id/312/3888/2592.jpg',
     description: 'Sweet Honey in a Jar',
   },
   {
-    preview: 'https://i.picsum.photos/id/319/510/340.jpg?hmac=9rB1YHFsvoUfbmil4VFledCg8RcrM6pUFUM6rGzAaGk',
-    original: 'https://i.picsum.photos/id/319/5445/2768.jpg?hmac=oZV0pFhNqKHhhKnqoPwpG3MS68TynWZVdMhaqHZ68x4',
+    preview: 'https://picsum.photos/id/319/510/340.jpg',
+    original: 'https://picsum.photos/id/319/5445/2768.jpg',
     description: 'Denim Jacket Camera Strap',
   },
   {
-    preview: 'https://i.picsum.photos/id/338/510/340.jpg?hmac=PoIZRlWZkWD4Er2U4nOB4VLwW14SrRX6X2Q_4S3AlZQ',
-    original: 'https://i.picsum.photos/id/338/2000/1333.jpg?hmac=-sTSfHkgHcFg1Jdut1v8HTVl9S1cyeMQ0OY_8dj30fY',
+    preview: 'https://picsum.photos/id/338/510/340.jpg',
+    original: 'https://picsum.photos/id/338/2000/1333.jpg',
     description: 'Person in a Hoodie',
   },
   {
-    preview: 'https://i.picsum.photos/id/337/510/340.jpg?hmac=mgAPkZbKjG0cLJpZGh6DzW2cl4RbZexmuStQFFWylg8',
-    original: 'https://i.picsum.photos/id/337/1572/1179.jpg?hmac=mqUkDUaJnZFhlgZeFN3rzoCJ8Mi5v8nPDkb5naIjsBE',
+    preview: 'https://picsum.photos/id/337/510/340.jpg',
+    original: 'https://picsum.photos/id/337/1572/1179.jpg',
     description: 'Field of Gold, Grain',
   },
 ];
