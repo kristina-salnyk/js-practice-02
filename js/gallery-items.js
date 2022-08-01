@@ -72,7 +72,7 @@ export const galleryItems = [
   },
   {
     preview: 'https://picsum.photos/id/111/510/340.jpg',
-    original: 'https://picsum.photos/id/111/4400/2656.jpg?',
+    original: 'https://picsum.photos/id/111/4400/2656.jpg',
     description: 'Vintage Car Street',
   },
   {
