@@ -1,1 +1,2 @@
-# goit-js-hw-07
+# JS Practice
+Event delegation. Throttle/Debounce and Lazyload
